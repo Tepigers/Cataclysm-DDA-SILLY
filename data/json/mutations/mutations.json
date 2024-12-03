@@ -1945,10 +1945,10 @@
   {
     "type": "mutation",
     "id": "SCHIZOPHRENIC",
-    "name": { "str": "Kaluptic Psychosis" },
+    "name": { "str": "SCHIZOPHRENIC (SILLYY!!!))" },
     "points": -3,
     "vitamin_cost": 160,
-    "description": "Ever since the sky first broke, you have felt unwell, your head split by alien thoughts.  You will periodically suffer from delusions, ranging from minor effects to full visual hallucinations.  Some of these effects may be controlled through the use of antipsychotics.",
+    "description": "BLACK MOLD IS HEALTHY. DON'T LET THE DOCTORS TELL YOU OTHERWISE THEY'RE LYING SAY IT WITH ME: MEDICAL GAS LIGHTING IS REAL. MEDICAL GAS LIGHTING IS REAL.",
     "starting_trait": true,
     "random_at_chargen": false,
     "category": [ "MEDICAL" ]
